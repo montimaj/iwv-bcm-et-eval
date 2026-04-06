@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software or its outputs, please cite it as below."
+title: "iwv-bcm-et-eval: Actual Evapotranspiration Evaluation over the Indian Wells Valley, CA"
+abstract: >-
+  Scripts and analyses for comparing multiple remote sensing and modeled
+  actual evapotranspiration (AET) products against the USGS Reitz ET
+  reference dataset over the Indian Wells Valley (IWV) Basin Characterization
+  Model (BCM) calibration basins and sub-basins for water years 2001-2015.
+type: software
+authors:
+  - family-names: Majumdar
+    given-names: Sayantan
+    name-particle: "Dr."
+    affiliation: "Desert Research Institute"
+    email: sayantan.majumdar@dri.edu
+repository-code: "https://github.com/montimaj/iwv-bcm-et-eval"
+license: MIT
+keywords:
+  - evapotranspiration
+  - remote sensing
+  - Indian Wells Valley
+  - Great Basin
+  - BCM
+  - USGS Reitz ET
+  - OpenET
+  - MODIS
+  - SSEBop
+  - PML
+  - water resources
+  - Google Earth Engine
