@@ -219,15 +219,6 @@ product are also documented in the header of
 | USGS BCM/Flint | [Flint et al. (2021a)](https://doi.org/10.3133/tm6H1) · [Flint et al. (2021b)](https://doi.org/10.5066/P9PT36UI) |
 | USGS Reitz Ensemble ET | <https://doi.org/10.1029/2022WR034012> · <https://doi.org/10.5066/P9EZ3VAS> |
 | USGS Reitz SSEBop-WB | <https://doi.org/10.3390/rs9121181> · <https://doi.org/10.5066/F7QC02FK> |
-
-> **Note on the Reitz ET product used in the IWV BCM:**
-> [Saleh et al. (2026)](https://doi.org/10.3133/sir20265114) cites
-> [Reitz et al. (2017a)](https://doi.org/10.1111/1752-1688.12546), but
-> the ET product actually used is from
-> [Reitz et al. (2017b)](https://doi.org/10.3390/rs9121181). This is
-> evident from the methodology described on page 12 of the USGS report
-> ([Saleh et al., 2026](https://doi.org/10.3133/sir20265114)).
-
 | MOD16 (`MODIS/061/MOD16A2GF`) | [Running et al. (2019)](https://modis-land.gsfc.nasa.gov/pdf/MOD16UsersGuideV2.022019.pdf) · [GEE Catalog](https://developers.google.com/earth-engine/datasets/catalog/MODIS_061_MOD16A2GF#description) |
 | PML_V2 | [Zhang et al. (2019)](https://doi.org/10.1016/j.rse.2018.12.031) · [Xu et al. (2026)](https://doi.org/10.5194/essd-2026-94) · [GEE Catalog](https://developers.google.com/earth-engine/datasets/catalog/projects_pml_evapotranspiration_PML_OUTPUT_PML_V22a#description) |
 | SSEBop VIIRS | [Senay et al. (2013)](https://doi.org/10.1111/jawr.12057) · [Senay (2018)](https://elibrary.asabe.org/abstract.asp?AID=48975&t=3&dabs=Y&redir=&redirType=) · [Senay et al. (2020)](https://www.mdpi.com/1424-8220/20/7/1915) · [Senay et al. (2022)](https://doi.org/10.1016/j.rse.2022.113011) · [Senay et al. (2023)](https://doi.org/10.3390/rs15010260) · [Chiew et al. (2002)](#references) · [GEE Community Catalog](https://gee-community-catalog.org/projects/usgs_viirs/) |
@@ -241,6 +232,14 @@ product are also documented in the header of
 | OpenET SIMS | <https://developers.google.com/earth-engine/datasets/catalog/OpenET_SIMS_CONUS_GRIDMET_MONTHLY_v2_0> |
 | WLDAS ET | [Erlingis et al. (2021)](https://doi.org/10.1111/1752-1688.12910) · [Climate Engine](https://support.climateengine.org/article/137-wldas) |
 | TerraClimate | [Abatzoglou et al. (2018)](https://doi.org/10.1038/sdata.2017.191) · [GEE Catalog](https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE#description) |
+
+> **Note on the Reitz ET product used in the IWV BCM:**
+> [Saleh et al. (2026)](https://doi.org/10.3133/sir20265114) cites
+> [Reitz et al. (2017a)](https://doi.org/10.1111/1752-1688.12546), but
+> the ET product actually used is from
+> [Reitz et al. (2017b)](https://doi.org/10.3390/rs9121181). This is
+> evident from the methodology described on page 12 of the USGS report
+> ([Saleh et al., 2026](https://doi.org/10.3133/sir20265114)).
 
 ## References
 
