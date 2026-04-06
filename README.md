@@ -2,10 +2,11 @@
 
 Actual evapotranspiration (AET) assessment over the Indian Wells Valley
 (IWV), California, in the Great Basin. This repository compares multiple
-remote-sensing and land-surface-model AET products against the USGS Reitz ET
-and BCM AET (Flint et al., 2021) reference datasets for the IWV Basin
-Characterization Model (BCM) calibration basins and IWV sub-basins, over
-water years 2001-2015.
+remote-sensing and land-surface-model AET products against the USGS
+[Reitz et al. (2017b)](https://doi.org/10.3390/rs9121181) ET and BCM AET
+([Flint et al., 2021](https://doi.org/10.5066/P9PT36UI)) reference datasets
+for the IWV Basin Characterization Model (BCM) calibration basins and IWV
+sub-basins, over water years 2001-2015.
 
 ## Project Structure
 
