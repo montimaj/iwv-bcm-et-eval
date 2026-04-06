@@ -75,16 +75,20 @@ Source: [scripts/et_comparison_viewer_iwv.js](scripts/et_comparison_viewer_iwv.j
 5. Correlation analysis (Pearson, Spearman) for each product
 6. Inter-product agreement (CV, range) across basins
 
-![Mean Annual AET/PPT Ratio by ET Product (WY2001-2015)](Data/Outputs/IWV_BCM_ET_EVAL_subbasin/all_products_et_ppt_ratio_maps.png)
+![Mean Annual AET/PPT Ratio by ET Product (WY2001-2015)](Data/Outputs/IWV_BCM_ET_EVAL_combined/all_products_combined_et_ppt_ratio_maps.png)
 
-**Figure 1.** Mean annual AET/PPT ratio across IWV sub-basins for 16 ET
+**Figure 1.** Mean annual AET/PPT ratio across IWV sub-basins (dark gray
+outlines) and BCM calibration basins (dark magenta outlines) for 16 ET
 products (WY2001-2015). Ratios below 1.0 (blue) indicate AET < PPT
 (potential recharge); ratios above 1.0 (red) indicate AET > PPT. The USGS
 BCM/Flint and BCM/Reitz products consistently show low ratios on the desert
 valley floor, supporting the BCM recharge signal identified in
-[Saleh et al. (2026)](https://doi.org/10.3133/sir20265114). In contrast,
-several remote-sensing products (e.g., OpenET SSEBop, OpenET PT-JPL)
-estimate AET exceeding PPT in portions of the basin.
+[Saleh et al. (2026)](https://doi.org/10.3133/sir20265114). ET products
+show better agreement across most calibration basins (mountain watersheds),
+with the notable exception of the Playa basin where estimates diverge
+substantially. Several remote-sensing products (e.g., OpenET SSEBop, OpenET
+PT-JPL) estimate AET exceeding PPT in portions of the valley floor and
+Playa.
 
 ## Usage
 
